@@ -20,9 +20,7 @@ export default function Home() {
           <Countdown/>
         </div>
         <div>
-          <Profile/>
-          <CompletedChallenges/>
-          <Countdown/>
+   
         </div>
       </section>
     </div>)
