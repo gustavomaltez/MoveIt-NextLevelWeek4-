@@ -1,4 +1,4 @@
-.challlangeBoxContainer{
+.challengeBoxContainer{
     height: 100%;
 
     background: var(--white);
@@ -14,23 +14,27 @@
     text-align: center;
 }
 
-.challlangeNotActive{
+.challengeNotActive{
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.challlangeNotActive strong{
+.challengeNotActive strong{
     font-size: 1.5rem;
     font-weight: 500;
     line-height: 1.4;
 }
 
-.challlangeNotActive p{
+.challengeNotActive p{
     display: flex;
     flex-direction: column;
     align-items: center;
     line-height: 1.4;
     max-width: 70%;
     margin-top: 3rem;
+}
+
+.challengeNotActive p img{
+    margin-bottom: 1rem;
 }

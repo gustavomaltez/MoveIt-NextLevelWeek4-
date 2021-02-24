@@ -1,9 +1,9 @@
 import styles from '../../styles/components/ChalllangeBox.module.css';
 
-export function ChalllangeBox(){
+export function ChallengeBox(){
     return (
-        <div className={styles.challlangeBoxContainer}>
-            <div className={styles.challlangeNotActive}>
+        <div className={styles.challengeBoxContainer}>
+            <div className={styles.challengeNotActive}>
                 <strong>Finalize um ciclo para receber um desafio</strong>
                 <p>
                     <img src="icons/level-up.svg" alt="Level up"/>
