@@ -1,4 +1,3 @@
-
 <br />
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/languages/code-size/gustavomaltez/move-it?style=for-the-badge">
@@ -42,8 +41,8 @@ An awesome app that helps developers to maintain focus and make shorts exercises
 
 ## 📺 Preview
 <div align="center">
-    <img src="" width="100%"/>
-  <a href=""><strong>Try It Now »</strong></a>
+    <img src="https://user-images.githubusercontent.com/57905553/110250706-75cc3200-7f5b-11eb-8fa8-dac8b600db8c.png" width="100%"/>
+    <a href=""><strong>Try It Now »</strong></a>
 </div>
 
 ## 🌐 Try it now
