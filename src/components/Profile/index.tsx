@@ -6,9 +6,9 @@ const Profile: React.FC = () => {
   const { level } = useContext(ChallengesContext);
   return (
     <div className={styles.profileContainer}>
-      <img src="https://github.com/gustavomaltez.png" alt="Gustavo Maltez" />
+      <img src="https://github.com/rocketseat.png" alt="Profile" />
       <div>
-        <strong>Gustavo Maltez</strong>
+        <strong>Developer</strong>
         <p>
           <img src="icons/level.svg" alt="Level" />
           Level {level}
